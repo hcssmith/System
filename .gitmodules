@@ -1,0 +1,18 @@
+[submodule "st"]
+	path = st
+	url = git@github.com:hcssmith/st
+[submodule "surf"]
+	path = surf
+	url = git@github.com:hcssmith/surf
+[submodule "dwm"]
+	path = dwm
+	url = git@github.com:hcssmith/dwm
+[submodule "dmenu"]
+	path = dmenu
+	url = git@github.com:hcssmith/dmenu
+[submodule "tabbed"]
+	path = tabbed
+	url = git@github.com:hcssmith/tabbed
+[submodule "slstatus"]
+	path = slstatus
+	url = git@github.com:hcssmith/slstatus
